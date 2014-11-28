@@ -14,7 +14,7 @@ Pasta PC
 
 em alguma pasta do pc vc da o comando 
 
-   git init
+    git init
 
 Inicializa o repositório na pasta local
 
